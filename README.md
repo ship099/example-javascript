@@ -1,4 +1,4 @@
-# [:] Example Node Project Test  Test
+# [:] Example Node Project Test
 
 
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
